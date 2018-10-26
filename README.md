@@ -1,4 +1,5 @@
 How to make things open: From business concepts to design systems
+
 Designing Open Business Conference 5th November 2018 - Danish Design Center 
 
 Serena Cangiano, WeMake.cc, 
